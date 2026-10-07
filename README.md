@@ -17,11 +17,39 @@
 - Integrated enquiry forms and click‑to‑call functionality.  
 - Applied on‑page SEO best practices (metadata, headings, alt tags, local keywords).  
 
+## Sitemap
+- Homepage  
+- Services  
+  - Roof Replacement  
+  - Roof Repair  
+  - Storm Damage  
+  - Gutters  
+  - Siding  
+- Service Areas  
+  - Pretoria  
+  - Centurion  
+  - Midrand  
+  - Johannesburg  
+  - Sandton  
+- About Us  
+- Testimonials  
+- Financing / Insurance Claims  
+- Blog / Resources  
+- Contact  
+
+## Launch Plan
+- Week 1: Discovery, sitemap, and SEO preservation plan  
+- Week 2–4: Content collection and wireframes  
+- Week 5–7: Development ( forms, SEO setup)  
+- Week 8: QA testing (forms, mobile, speed)  
+- Week 9: Redirects and SEO validation  
+- Week 10: Final client review and launch  
+
 ## Results
 - Delivered a clean, professional site aligned with the client’s brand.  
 - Improved mobile usability and site speed.  
 - Increased inbound enquiries through optimized forms and clearer CTAs.  
 - Positioned the site for ongoing SEO growth with a blog/resources section.  
 
-## Link
-[Visit Aluminium House](https://aluminiumh.co.za)
+## Live Link
+[Visit Aluminium House Website](https://aluminiumh.co.za)
