@@ -1,4 +1,4 @@
-# Aluminium House Project Case Study
+# Aluminium House Website
 
 **Client:** Aluminium House (South Africa)  
 **Industry:** Residential & Commercial Aluminium Solutions  
